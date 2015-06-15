@@ -19,7 +19,8 @@ names = ['atomic_number' , 'symbol', 'name', 'atomic_mass',
 'boiling point in K', 'density in g/mL', 'metal or nonmetal?', 'year discovered'] 
 
 df = pd.read_table(os.path.join(BASE_DIR, 'pt-data2.csv'),sep=',',  header=None, names=names)
-df.symbol.apply(string.strip)
+s = df.symbol.map(string.strip)
+df.symbol = s
 
 caps = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lowers = caps.lower()
@@ -37,6 +38,6 @@ for t in tests:
     except ParseException, pe:
         print pe
     else:
-        wt = sum( [df.query('symbol == {}'.format(elem))*int(qty) for elem,qty in results] )
+        wt = sum(float([df[df['symbol'] == '{}'.format(elem)].atmoic_mass.iloc[0].strip().split('(')[0]) *int(qty) for elem,qty in results] )
         print "(%.3f)" % wt
 
