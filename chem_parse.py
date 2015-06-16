@@ -12,15 +12,8 @@ import string
 
 BASE_DIR = os.path.dirname(os.path.realpath(__file__))
 
-names = ['atomic_number' , 'symbol', 'name', 'atomic_mass',
-'CPK color in RRGGBB hex format', 'electronic configuration', 'electronegativity in Pauling',
-'atomic radius in pm' , 'ion radius in pm', 'van der Waals radius in pm', 'IE-1 in kJ/mol',
-'EA in kJ/mol', 'oxidation states', 'standard state', 'bonding type', 'melting point in K',
-'boiling point in K', 'density in g/mL', 'metal or nonmetal?', 'year discovered'] 
+df = pd.read_table(os.path.join(BASE_DIR, 'elements.csv'),sep=',',  header=0, skipinitialspace=True)
 
-df = pd.read_table(os.path.join(BASE_DIR, 'pt-data2.csv'),sep=',',  header=None, names=names)
-s = df.symbol.map(string.strip)
-df.symbol = s
 
 caps = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lowers = caps.lower()
@@ -30,7 +23,7 @@ element = Word( caps, lowers )
 elementRef = Group( element + Optional( Word( digits ), default="1" ) )
 formula = OneOrMore( elementRef )
 
-tests = [ "H2O", "C6H5OH", "NaCl" ]
+tests = [ "AlO2", "SiO2" ]
 for t in tests:
     try:
         results = formula.parseString( t )
@@ -38,6 +31,6 @@ for t in tests:
     except ParseException, pe:
         print pe
     else:
-        wt = sum(float([df[df['symbol'] == '{}'.format(elem)].atmoic_mass.iloc[0].strip().split('(')[0]) *int(qty) for elem,qty in results] )
-        print "(%.3f)" % wt
+        wt = sum([float(df[df['Symbol']=='{}'.format(elem)].Atomic_Weight.iloc[0]) * int(qty) for elem,qty in results])
+        print ("{}".format(wt))
 
