@@ -23,7 +23,7 @@ element = Word( caps, lowers )
 elementRef = Group( element + Optional( Word( digits ), default="1" ) )
 formula = OneOrMore( elementRef )
 
-tests = [ "AlO2", "SiO2" ]
+tests = [ "Al2O3", "SiO2" ]
 for t in tests:
     try:
         results = formula.parseString( t )
