@@ -1,0 +1,1126 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nominal",
+				"nominal_exponential_decline〔argument〕"
+			],
+			[
+				"inti",
+				"initial_cumulative〔argument〕"
+			],
+			[
+				"nomin",
+				"nominal_decline〔argument〕"
+			],
+			[
+				"nom",
+				"nominal_decline"
+			],
+			[
+				"initia",
+				"initial_rate"
+			],
+			[
+				"effec",
+				"effective_decline"
+			],
+			[
+				"initi",
+				"initial_rate"
+			],
+			[
+				"fig",
+				"figure〔module〕"
+			],
+			[
+				"days",
+				"days_produced"
+			],
+			[
+				"wate",
+				"water_bbls"
+			],
+			[
+				"oil",
+				"oil_bbls"
+			],
+			[
+				"forma",
+				"formation_id〔argument〕"
+			],
+			[
+				"perf",
+				"perf_date〔argument〕"
+			],
+			[
+				"per",
+				"perf_id〔argument〕"
+			],
+			[
+				"shu",
+				"shut_in_date〔argument〕"
+			],
+			[
+				"daily",
+				"daily_water_bbl"
+			],
+			[
+				"dai",
+				"daily_gas_mcf〔argument〕"
+			],
+			[
+				"dau",
+				"daily_oil_bbl〔argument〕"
+			],
+			[
+				"test",
+				"test_date"
+			],
+			[
+				"tot",
+				"total_vertical_depth〔argument〕"
+			],
+			[
+				"surve",
+				"survey_block〔argument〕"
+			],
+			[
+				"abs",
+				"abstract〔argument〕"
+			],
+			[
+				"gas",
+				"gas_mcf〔argument〕"
+			],
+			[
+				"re",
+				"reporting_date"
+			],
+			[
+				"we",
+				"well_total_depth〔argument〕"
+			],
+			[
+				"st",
+				"state〔argument〕"
+			],
+			[
+				"leas",
+				"lease_id_di〔argument〕"
+			],
+			[
+				"ab",
+				"abstract〔argument〕"
+			],
+			[
+				"sec",
+				"section〔argument〕"
+			],
+			[
+				"long",
+				"longitude〔argument〕"
+			],
+			[
+				"la",
+				"latitude〔argument〕"
+			],
+			[
+				"survey",
+				"survey_secton〔argument〕"
+			],
+			[
+				"lease",
+				"lease_id_di"
+			],
+			[
+				"res",
+				"reservoir_name〔argument〕"
+			],
+			[
+				"field",
+				"field_number"
+			],
+			[
+				"oper",
+				"operator_number〔argument〕"
+			],
+			[
+				"gene",
+				"generation_time"
+			],
+			[
+				"file",
+				"file_version"
+			],
+			[
+				"00",
+				"00844386"
+			],
+			[
+				"PICKLE",
+				"PICKLE_INCREMENTAL"
+			],
+			[
+				"stmt",
+				"stmt_month"
+			],
+			[
+				"hr",
+				"hrdb_well_id"
+			],
+			[
+				"results",
+				"results_chart〔variable〕"
+			],
+			[
+				"ac",
+				"activity_year"
+			],
+			[
+				"pec_acc",
+				"pec_acct_monthly_detail"
+			],
+			[
+				"Compan",
+				"Company_Landing〔class〕"
+			],
+			[
+				"vole",
+				"volume_condensate"
+			],
+			[
+				"vol",
+				"volume_oil"
+			],
+			[
+				"total",
+				"total_expenses"
+			],
+			[
+				"sales",
+				"sales_ppl"
+			],
+			[
+				"sale",
+				"sales_oil"
+			],
+			[
+				"volu",
+				"volume_ppl"
+			],
+			[
+				"net",
+				"net_revenue"
+			],
+			[
+				"crp",
+				"crp_well_history"
+			],
+			[
+				"gross",
+				"gross_volume_gas〔variable〕"
+			],
+			[
+				"gross_Vol",
+				"gross_volume_ngl"
+			],
+			[
+				"gross_",
+				"gross_volume_oil"
+			],
+			[
+				"gros",
+				"gross_volume_ngl"
+			],
+			[
+				"templa",
+				"template_name"
+			],
+			[
+				"acti",
+				"activity_month"
+			],
+			[
+				"crp_",
+				"crp_cc_monthly"
+			],
+			[
+				"tem",
+				"template_name"
+			],
+			[
+				"count",
+				"count_dict"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"admin",
+				"admin_site"
+			],
+			[
+				"Company",
+				"CompanyAdmin"
+			],
+			[
+				"owne",
+				"owner_number"
+			],
+			[
+				"owner",
+				"owner_name"
+			],
+			[
+				"Timesheet",
+				"TimesheetInline"
+			],
+			[
+				"aal",
+				"allocation_percent"
+			],
+			[
+				"pru",
+				"purchaser_id"
+			],
+			[
+				"well",
+				"well_name"
+			],
+			[
+				"Inter",
+				"IntegerField"
+			],
+			[
+				"Int",
+				"IntegerField"
+			],
+			[
+				"Proj",
+				"ProjectAdmin"
+			],
+			[
+				"image",
+				"image_desc"
+			],
+			[
+				"even",
+				"event_desc"
+			],
+			[
+				"relation",
+				"relationship_type"
+			],
+			[
+				"id",
+				"individual_2_role"
+			],
+			[
+				"ind",
+				"individual_2_id"
+			],
+			[
+				"indi",
+				"individual_1_role"
+			],
+			[
+				"Ma",
+				"ManyToManyField"
+			],
+			[
+				"data",
+				"data_static"
+			],
+			[
+				"int",
+				"interests"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/waltn_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 293,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "glaze.py",
+			"settings":
+			{
+				"buffer_size": 179,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nTheme - Afterglow:\n-----------------\n\n  \n  Welcome to Afterglow Theme\n  \n  \n  To activate the theme, add or replace your current theme settings with the code below.\n  \n  \n  Settings for Afterglow\n  {\n      \"theme\": \"Afterglow.sublime-theme\",\n      \"color_scheme\": \"Packages/Theme - Afterglow/Afterglow.tmTheme\"\n  }\n  \n  Settings for Afterglow-blue\n  {\n      \"theme\": \"Afterglow-blue.sublime-theme\",\n      \"color_scheme\": \"Packages/Theme - Afterglow/Afterglow.tmTheme\"\n  }\n  \n  Settings for Afterglow-magenta\n  {\n      \"theme\": \"Afterglow-magenta.sublime-theme\",\n      \"color_scheme\": \"Packages/Theme - Afterglow/Afterglow.tmTheme\"\n  }\n  \n  Settings for Afterglow-orange\n  {\n      \"theme\": \"Afterglow-orange.sublime-theme\",\n      \"color_scheme\": \"Packages/Theme - Afterglow/Afterglow.tmTheme\"\n  }\n  \n  Settings for Afterglow-green\n  {\n      \"theme\": \"Afterglow-green.sublime-theme\",\n      \"color_scheme\": \"Packages/Theme - Afterglow/Afterglow.tmTheme\"\n  }\n  \n  \n  If you know other settings (height of the tabs, sidebar options, ...), visit this page:\n  https://github.com/YabataDesign/afterglow-theme/blob/master/README.md\n  \n  \n  *** IMPORTANT - Make sure to restart Sublime after installing and activating Afterglow ***\n  \n  ",
+			"settings":
+			{
+				"buffer_size": 1278,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 143.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insat",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install Package",
+				"Package Control: Install Package"
+			],
+			[
+				" insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: sea",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: install ap",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"print",
+				"Package Control: Install Package"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax: text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"syn mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set ",
+				"Set Syntax: HTML"
+			],
+			[
+				"colr",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"josn",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"re",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"rein",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:i ",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 924.0
+	},
+	"console":
+	{
+		"height": 254.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"reindent",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/waltn_000/Documents/GitHub/glaze"
+	],
+	"file_history":
+	[
+		"/C/Users/waltn_000/Documents/Python Scripts/dri_reader-2015-06-03/dri_reader/decline_functions.py",
+		"/C/Users/waltn_000/Documents/GitHub/glaze/pt-data2.csv",
+		"/Z/COMPANY/MEETINGS/2015_June_02_MeetingNotes.md",
+		"//cogdalfiles/Private User Files/WaltN/scripts/dri_reader/DRI_JobRequest66248_20150528.dri",
+		"//cogdalfiles/Private User Files/WaltN/scripts/dri_reader/dri_obj.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/tdrj_acct_well.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/tdrj_acct_monthly_detail.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/views.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/urls.py",
+		"/Z/LAND/PROSPECTS/WebbCounty_May2015/WebbCountyProspect_May2015.md",
+		"/H/scripts/unzip.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/settings.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/accounting.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/models.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/static/css/base.css",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/admin.py",
+		"/H/scripts/dri_reader/dri_obj.py",
+		"/H/scripts/dri_reader/decline_functions.py",
+		"/H/scripts/dri_reader/dri_decline.py",
+		"/Z/COMPANY/MEETINGS/2015_May_19_MeetingNotes.md",
+		"/Z/COMPANY/MEETINGS/2015_May_12_MeetingNotes.md",
+		"/Z/COMPANY/MEETINGS/2015_May_5_MeetingNotes.md",
+		"/Z/LAND/PROSPECTS/WebbCounty_May2015/DRI V2.4_DBAgent1_66248_1432837467432/DRI_JobRequest66248_20150528.dri",
+		"/Z/GIS/SUBSCRIPTION_DATA/DRILLING_INFO/SCRIPTS/UpdateGDB_V2.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/rjapp_project.sublime-workspace",
+		"/Z/GIS/CULTURAL_DATA/TEXAS/ROADS/TxDOT_Roadways.cpg",
+		"/H/scripts/uzip.py",
+		"/Z/GIS/RJDB/TEMP/wellsraw.txt",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/pec_acct_well.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/crp_acct_well.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/pec_acct_monthly_detail.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/tdrj_acct_monthly.html",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/WARNER_UNIT/Memo_LWN_THardie_Warner01Unit_DivisionOrders_20150520.md",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/crp_acct_monthly_detail.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/company_list.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/company_landing.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/crp_acct_monthly.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/rjapp_project.sublime-project",
+		"/Z/LAND/FORMS/Memo_LWN_March12_2015_ShutInPayment.md",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/crp_monthly_chart.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/well_select_form.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0020_auto_20150518_1407.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0021_auto_20150518_1411.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0019_auto_20150518_1046.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0014_timesheet.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0018_pec_accounting.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/utilities/__init__.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/manage.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/pec_combine.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/utilities/django_standalone_settings.py",
+		"/C/Users/WaltN/AppData/Roaming/Sublime Text 3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/C/Users/WaltN/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/WaltN/AppData/Roaming/Sublime Text 3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/C/Users/WaltN/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/WaltN/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/WaltN/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/WaltN/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/WaltN/AppData/Roaming/Sublime Text 3/Packages/User/Python (Django).sublime-settings",
+		"/Z/LAND/CHIEF_ROYALTY_PARTNERS/WELLS_UNITS/Etta Burress/Memo_LWN_THardie_CRP_EttaBurressAW6H_DO_20110515.md",
+		"/C/Users/WaltN/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/WaltN/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/well_list_search_results.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/year_month_form.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/static_root/d3/d3.min.js",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/static_root/nvd3/build/nv.d3.min.js",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/crp_acct_cc_month_list.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/divisionorder_list.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/well_list.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/index.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/templates/app/timesheets.html",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD_EXTENSION/Memo_LWN_THardie_RiverLand_EF_ExtensionTerminationAgmt_20150507.md",
+		"/C/Users/WaltN/Desktop/GitHub/geno_django/genodj/family/static/css/family.css",
+		"/Z/GIS/SUBSCRIPTION_DATA/DRILLING_INFO/SCRIPTS/UpdateGDB.py",
+		"/Z/COMPANY/MEETINGS/2015April21_MeetingNotes.md",
+		"/Z/COMPANY/MEETINGS/2015April14_MeetingNotes.md",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/venv/Lib/site-packages/django/contrib/admin/templates/admin/base.html",
+		"/C/Users/WaltN/Desktop/GitHub/geno_django/genodj/family/templates/family/index.html",
+		"/C/Users/WaltN/Desktop/GitHub/geno_django/genodj/family/urls.py",
+		"/C/Users/WaltN/Desktop/GitHub/geno_django/genodj/family/templates/base.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/templates/admin/rjapp_base_site.html",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0011_auto_20150429_1640.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0010_auto_20150429_1640.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0011_auto_20150429_1642.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0009_auto_20150429_1610.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0001_initial.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0008_auto_20150429_1556.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/migrations/0004_auto_20150429_1454.py",
+		"/Z/LAND/HENDRICK_RANCH/WELLS_UNITS/HRWells.md",
+		"/Z/COMPANY/MEETINGS/2015April28_MeetingNotes.md",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/PARKER_UNIT/ParkerUnitInterestVerification.md",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/PARKER_UNIT/Memo_ParkerUnit_LWN_THardie_20150427.md",
+		"/Z/COMPANY/BUDGET/BudgetDataSources.md",
+		"/Z/GIS/COOK_CANYON_RANCH/DEM_DATA/WellElevationFromDEM.py",
+		"/Z/LAND/PROSPECTS/MikeAllen_Minerals_April2015/MineralProspects_MikeAllen_April2015.md",
+		"/H/INTEGRATION_PROJECT/ListOfSystems.md",
+		"/C/Users/WaltN/Desktop/GitHub/geno_django/genodj/genodj/settings.py",
+		"/C/Users/WaltN/Desktop/GitHub/geno_django/genodj/family/admin.py",
+		"/C/Users/WaltN/Desktop/GitHub/geno_django/genodj/family/models.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/venv/Lib/site-packages/sqlserver_ado/schema.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/venv/Lib/site-packages/sqlserver_ado/base_schema.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/venv/Lib/site-packages/sqlserver_ado/models/query.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/venv/Lib/site-packages/sqlserver_ado/models/manager.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/models_v4.py",
+		"/C/Users/WaltN/Desktop/GitHub/rjapp/app/models_v2.py",
+		"/C/Users/WaltN/Desktop/GitHub/geno_django/genodj/family/views.py",
+		"/C/Users/WaltN/Desktop/GitHub/geno_django/genodj/genodj/urls.py",
+		"/C/Users/WaltN/Desktop/GitHub/geno_django/genodj/family/templates/index.html",
+		"/C/Users/WaltN/.heroku/error.log",
+		"/C/Users/WaltN/Desktop/GitHub/geno_django/genodj/family/models_v2.py",
+		"/C/Users/WaltN/Desktop/GitHub/geno_django/genodj/manage.py",
+		"/Z/GIS/BARNETT_PROSPECT/Directional Survey_DBAgent1_64183_1429301890668/DirSurvey_JobRequest64183_20150417.csv",
+		"/Z/GIS/TEMP/Top_Target_Areas_20150415.prj",
+		"/Z/GIS/BARNETT_PROSPECT/Top_Target_Areas_20150415.prj",
+		"/Z/GIS/BARNETT_PROSPECT/seq.p",
+		"/H/Python Scripts/AnneBdayCalendar-2015-04-13/AnneBdayCalendar/anntest3_k963c4e4t75rk38ah13erkbmq4@group.calendar.google.com.ics",
+		"/Z/COMPANY/MEETINGS/2015April07_MeetingNotes.md",
+		"/Z/LAND/TUG_HILL_MINERALS_I/RJ_CHIEF_SALE/AgmtChangeLog.md",
+		"/Z/LAND/HENDRICK_RANCH/PURCHASERS/SUNOCO/Memo_Sunoco_LWN_JHinton_20150406.md",
+		"/C/Users/WaltN/.ipython/profile_walt/ipython_qtconsole_config.py",
+		"/C/Users/WaltN/.ipython/profile_walt/ipython_config.py",
+		"/Z/GIS/RJDB/TEMP/wellsclean.txt",
+		"/C/Users/WaltN/Desktop/GitHub/rjhdb/alembic/versions/438a2679ff83_remove_orientation_from_wells.py",
+		"/Z/COMPANY/MEETINGS/2015March24_MeetingNotes.md",
+		"/C/Users/WaltN/Desktop/GitHub/rjhdb/alembic/versions/2d9bdbcfce2b_add_pruch_id_to_wells.py",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/ADAMEK_001H/MEMO_LWN_THardie__AdamekUnit_DO_20150327.md",
+		"//cogdalfiles/Private User Files/WaltN/Python Scripts/diceware-master/diceware-master/README.md",
+		"/Z/LAND/RIVERLAND_PROPERTIES/EAGLEFORD/MINERAL_PKG_9/Memo_LWN_THardie_RiverLand_DebeePeters_Sabine_LtrAgmt_20150114.md",
+		"/Z/RJH_DB/UPLOADS/hr_rrcL_lease_numbers.txt"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"strptime",
+			"\n-",
+			"\n	",
+			"%}${{",
+			"code",
+			"auto",
+			"                '",
+			"pep",
+			"pep8",
+			"whitespace",
+			"divo",
+			"asset_company",
+			"well",
+			"lease",
+			"divo",
+			"	\n",
+			"font",
+			"8900",
+			"5301",
+			"5201",
+			"4101",
+			"4003",
+			"3904",
+			"3806",
+			"3702",
+			"37",
+			"3702",
+			"3505",
+			"3503",
+			"3401",
+			"3405",
+			"2902",
+			"2702",
+			"2601",
+			"2202",
+			"2002",
+			"2202",
+			"202",
+			"1801",
+			"1503",
+			"1502",
+			"1303",
+			"1102",
+			"1102A",
+			"1102a",
+			"602",
+			"601",
+			"0601",
+			"v237",
+			"v233",
+			"haskell",
+			"v125",
+			"42-417-0020",
+			"42-207-0010",
+			"42-417-0020",
+			"42-207-0009",
+			"42-207-0020L",
+			"42-207-0010L",
+			"42-207-0012L",
+			"42-207-0009L",
+			"spec",
+			"42-447-0005",
+			"42-447-0006L-HR",
+			"42-207-0010",
+			"42-447-0010",
+			"42-417-0018L",
+			"42-417-0018",
+			"42-417-0020",
+			"42-417-0018",
+			"81",
+			"42-81-0007L",
+			"42-81-0009",
+			"42-417-0009",
+			"42-417-0008",
+			"transoil",
+			"trans oil ",
+			"transoil",
+			"42-417-0001L",
+			"42-417-0002",
+			"agmt_type: lease",
+			"agmt_typeL lease",
+			"lease",
+			"\"lease",
+			"\"lease\"",
+			"FOLLOWS: BEGINNING AT THE SOUTHWEST",
+			"SECTION 16, BLOCK M-5, ",
+			"line",
+			"tract no. 1",
+			"42-417-0014",
+			"42-417-0004",
+			"42-417-0007",
+			"42-417-0004",
+			"42-417-0020",
+			"42-447-0020",
+			"42-81-00010",
+			"42-447-0007",
+			"42-417-00020",
+			"42-417-0001",
+			"42-417-0001.",
+			"42-417-0001",
+			"trans",
+			"transoil",
+			"bluff",
+			"transoil",
+			"transiol",
+			"P.I.D.",
+			"sojo",
+			"transoil",
+			"sunoco",
+			"''",
+			"boot",
+			"bootstrap",
+			"'",
+			"NaN",
+			"Nan",
+			"transoil",
+			"sanders",
+			"42-81-0003L-HR",
+			"42-81-0000L-HR\n",
+			"42-417-0000L-H",
+			"42-81-0000L-HR",
+			"42-417-0003L-HR",
+			"42-48-0001",
+			"42-48-00001",
+			"42-481-00001",
+			"42-481-0001",
+			"42-417-0012L-HR",
+			"2014"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"row",
+			"proj",
+			"well",
+			"lease",
+			"207",
+			"agmt_type: OGL_PaidUp",
+			"DEFAULT",
+			"\"",
+			"\"\"",
+			"OGL_PaidUp",
+			".20",
+			"BML INC",
+			"C E JACOBS COMPANY",
+			"",
+			"phone1name:",
+			"email1",
+			"- ",
+			"children"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/waltn_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "glaze.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1278,
+								1278
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 76.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "glaze.sublime-project",
+	"replace":
+	{
+		"height": 88.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Z:\\RJH_DB\\rjwellapi.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"H:\\scripts\\dri_reader\\dri.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 398.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

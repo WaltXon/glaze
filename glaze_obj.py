@@ -14,14 +14,43 @@ class Glaze:
             self.type = receipe[0]['type']
             self.materials = receipe[0]['materials']
             self.additives = receipe[0]['additives']
-        
-    def material_list(self, total_weight):
+
+
+    def to_batch(self, materials):
+        if self.type == 'batch':
+            print 'already in batch form'
+            return materials
+        else:
+            print('type {} not yet implemented'.format(self.type))
+            return 0
+
+    def to_percent(self, materials):
+
+        if self.type == 'percent':
+            print 'already in percent form'
+            return materials
+        elif self.type == 'batch':
+            percents ={}
+            total = sum(self.materials.values())
+            for k,v in materials.iteritems():
+                percents[k] = float(v)/total 
+            return percents
+        else:
+            print('type {} not yet implemented'.format(self.type))
+            return 0
+
+    def to_unity(self, materials):
+        if self.type == 'unity':
+            print 'already in unity form'  
+        else:
+            print('type {} not yet implemented'.format(self.type))
+            return 0
+            
+    def material_list(self, total_weight=10000):
         if self.type == 'batch':
             total = sum(self.materials.values())
             
-            percents ={}
-            for k,v in self.materials.iteritems():
-                percents[k] = float(v)/total                                    
+            percents = self.to_percent(self.materials)                                   
             
             weights = {}
             for k,v in percents.iteritems():
@@ -47,23 +76,14 @@ class Glaze:
         if self.additives !={}:
             print('Additives')
             for k,v in self.additives.iteritems():
-                weights[k] = [x*float(total_weight)/100.0 for x in v]
+                if type(v) == list:
+                    weights[k] = [x*float(total_weight)/100.0 for x in v]
+                else:
+                    weights[k] = float(v)*float(total_weight)/100.0
                 print('-- {}: {}'.format(k,weights[k]))
             #print('Total Weight = {}'.format(sum(weights.values())))
             
-    def to_batch(self):
-        if self.type == 'batch':
-            print 'only for percentage recepies'
-        else:
-            pass
+          
+            
+            
     
-    def to_percent(self):
-        if self.type == 'percent':
-            print 'only for batch recepies'
-
-    def to_unity(self):
-        if self.type == 'percent':
-            print 'only for batch recepies'            
-            
-            
-            
